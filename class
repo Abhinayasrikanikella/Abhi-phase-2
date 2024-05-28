@@ -1,0 +1,35 @@
+class student:
+  def_init_(self,name,rollnum,ds,cs,emtl,mwe):
+  self.name = name
+  self.rollnum = rollnum
+  self.ds = ds
+  self.cs = cs
+  self.emtl = emtl
+  self.mwe = mwe
+
+obj = student("abhi",4R4,79,75,86,91)
+print(obj.name)
+print(obj.rollnum)
+print(obj.ds)
+print(obj.cs)
+print(obj.emtl)
+print(obj.mwe)
+
+obj2 = student("bindu",4T1,80,76,87,92)
+print(obj2.name)
+print(obj2.rollnum)
+print(obj2.ds)
+print(obj2.cs)
+print(obj2.emtl)
+print(obj2.mwe)
+
+
+obj3 = student("kumar",4A1,81,77,88,93)
+print(obj3.name)
+print(obj3.rollnum)
+print(obj3.ds)
+print(obj3.cs)
+print(obj3.emtl)
+print(obj3.mwe)
+
+
